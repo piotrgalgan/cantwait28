@@ -19,6 +19,7 @@ dependencies:
   intl: ^0.17.0
   firebase_auth: ^4.2.5
   bloc: ^8.1.0
+  flutterfire_ui: ^0.4.3+20
 
 dev_dependencies:
   flutter_lints: ^2.0.1
